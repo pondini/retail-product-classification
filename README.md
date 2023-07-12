@@ -7,6 +7,7 @@ The aim of the competition was to predict the correct category to the products.
 
 ### Approaches
 All approaches are listed in the Jupyter Notebook and can be taken from it. 
+(Clone the repository and open it in Jupyter lab to use the hrefs and navigate easier through the notebook)
 
 ### Dataset
 The dataset consists of more than 42000 product information such as images and short descriptions belonging to 21 categories. The dataset is split into train and test data. 
